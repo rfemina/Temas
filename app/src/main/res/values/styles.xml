@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" theme="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="colorAccent">@color/red</item>
+    </style>
+
+    <style name="AppTheme_SegundaTela" parent="AppTheme">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/grey</item>
+    </style>
+
+</resources>
